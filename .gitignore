@@ -1,5 +1,5 @@
 myvenv/
 .vscode/
-test.py
-.gitignore
+test.py/
+.gitignore/
 
